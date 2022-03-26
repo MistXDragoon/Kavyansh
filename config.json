@@ -1,0 +1,9 @@
+{
+	"ip":"One_Block_Survival.aternos.me:58032",
+	"port": 58032,
+	"name": "AfkBot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
